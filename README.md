@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jayanth49
 - 👀 I’m interested in Machine-Learning,Deep-Learning and statistics
-- 🌱 I’m currently learning Deep-Learning
+- 🌱 I’m currently Working on Deep-Learning in Pytorch
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
