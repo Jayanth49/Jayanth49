@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Jayanth49
-- 👀 I’m interested in Machine-Learning,Deep-Learning and statistics
-- 🌱 I’m currently Working on Deep-Learning in Pytorch
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Jayanth
+- 👀 I’m in love with pytorch!!
 
 <!---
 Jayanth49/Jayanth49 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
